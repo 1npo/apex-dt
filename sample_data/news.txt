@@ -1,0 +1,178 @@
+[ { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/images/2022/11/apex-featured-image-wintertidecollectionevent.jpg.adapt.crop16x9.431p.jpg',
+    'link': 'https://www.ea.com/games/apex-legends/news/wintertide-collection-event',
+    'short_desc': 'Winter is almost here with the return of the Winter Express '
+                  'game mode and introducing Wraith’s new Prestige Skin, the '
+                  '“Apex Voidshifter!',
+    'title': 'Board the Winter Express in the Wintertide Collection Event'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/images/2022/11/apex-s5drop14-social-twitch-1920x1080thumbnail.jpg.adapt.crop16x9.431p.jpg',
+    'link': 'https://www.ea.com/games/apex-legends/news/prime-gaming-bundle-catalyst-natural-essence',
+    'short_desc': 'Get the Catalyst Natural Essence skin and more with your '
+                  'Prime membership from November 17th –  December 15th\r\n',
+    'title': 'Restore order with the new Prime Gaming Catalyst Bundle'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/common/eclipse/patch-notes/apex-eclipse-primary-thumbnail-jpg.adapt.crop16x9.431p.',
+    'link': 'https://www.ea.com/games/apex-legends/news/eclipse-patch-notes',
+    'short_desc': 'Explore a new map, conjure your inner strength with '
+                  'Catalyst, a new defensive Legend, and show your generosity '
+                  'with the new Gifting feature! ',
+    'title': 'Apex Legends: Eclipse Patch Notes'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/common/articles/broken-moon/final-broken-moon-overhead-shot-v2.jpg.adapt.crop16x9.431p.jpg',
+    'link': 'https://www.ea.com/games/apex-legends/news/broken-moon',
+    'short_desc': 'Venture on and learn more about our brand new map launching '
+                  'with Eclipse on November 1st.',
+    'title': 'Welcome to Broken Moon'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/common/prime-gaming/fuse-fireball/apex-s5drop13-social-twitch-1920x1080.jpg.adapt.crop16x9.431p.jpg',
+    'link': 'https://www.ea.com/games/apex-legends/news/prime-gaming-bundle-fuse-fireball',
+    'short_desc': 'Get the Fuse Fireball Filigree skin and more with your '
+                  'Prime membership from October 20th – November 17th',
+    'title': 'Feel the heat with the new Prime Gaming Fuse Bundle'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/common/articles/thumbnail/apex-legends-screenshot-season7-bp-02-wattson-sde-clean-2.png.adapt.crop16x9.431p.png',
+    'link': 'https://www.ea.com/games/apex-legends/news/gifting-update',
+    'short_desc': 'Show your friends you care with the one thing everyone '
+                  'loves: presents!',
+    'title': 'Gifting is coming to Apex Legends™!'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/images/2022/09/apex-fight-or-fight-sale-3840x2160-master-modes-text.jpg.adapt.crop16x9.431p.jpg',
+    'link': 'https://www.ea.com/games/apex-legends/news/fight-or-fright-event',
+    'short_desc': 'Shadow Royale Debuts on Olympus After Dark, limited-time '
+                  'modes rotating each week, and spooky Halloween skins oh my '
+                  '- starting October 4th.    ',
+    'title': 'Fight or Fright is back with 4 weeks full of deadly '
+             'entertainment!'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-hunted-s14-youtube-2560x1440-nologo.jpg.adapt.crop16x9.431p.jpg',
+    'link': 'https://www.ea.com/games/apex-legends/news/iron-sight-update',
+    'short_desc': 'Learn how Apex Legends will be improving the competitive '
+                  'integrity of iron sights now and in the future.',
+    'title': 'An update on iron sights '},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-s14-events-beast-of-prey-2160x2160-1.jpg.adapt.crop16x9.431p.jpg',
+    'link': 'https://www.ea.com/games/apex-legends/news/beast-of-prey-collection-event',
+    'short_desc': 'From September 20th to October 4th, Play Gun Run - a brand '
+                  'new limited-time mode and check out Loba’s Heirloom.',
+    'title': 'APEX LEGENDS™ BEAST OF PREY COLLECTION EVENT'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/common/prime-gaming/octane-bundle/apex-s5drop12-social-twitch-1920x1080.jpg.adapt.crop16x9.431p.jpg',
+    'link': 'https://www.ea.com/games/apex-legends/news/prime-gaming-bundle-octane-radioactive',
+    'short_desc': 'Get the Octane Radioactive skin and more free with your '
+                  'Prime membership from September 15th –  October 20th',
+    'title': 'Haunt your foes with the new Prime Gaming Octane Bundle'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/common/vantage-troop-leader-thumbnail.jpg.adapt.crop16x9.431p.jpg',
+    'link': 'https://www.ea.com/games/apex-legends/news/prime-gaming-bundle-vantage-troop-leader',
+    'short_desc': 'Get the Vantage Troop Leader skin and more free with your '
+                  'Prime membership from August 18th –  September 15th',
+    'title': ' Lead the hunt with the new Prime Gaming Vantage Bundle'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-hunted-primary-thumbnail.jpg.adapt.crop16x9.431p.jpg',
+    'link': 'https://www.ea.com/games/apex-legends/news/hunted-patch-notes',
+    'short_desc': 'Discover the will to survive with a new Legend and explore '
+                  'a reforged Kings Canyon when Apex Legends: Hunted launches '
+                  'on August 9th.',
+    'title': 'Apex Legends: Hunted Patch Notes'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/common/articles/olympus-map-updates/apex-legends-reforged-kings-canyon-map-update.png.adapt.crop16x9.431p.png',
+    'link': 'https://www.ea.com/games/apex-legends/news/reforged-kings-canyon-map-update',
+    'short_desc': 'Explore the reforged Kings Canyon. What was once Skull Town '
+                  'has risen from the ashes as Relic.',
+    'title': 'Reforged Kings Canyon Map Update'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-s5drop10-social-twitch-1920x1080.jpg.adapt.crop16x9.431p.jpg',
+    'link': 'https://www.ea.com/games/apex-legends/news/prime-gaming-bundle-wraith-royal',
+    'short_desc': ' Get the Wraith Fleur de Lethal skin and more free with '
+                  'your Prime membership from July 21st –  August 18th',
+    'title': ' Get Regal with the new Prime Gaming Wraith Royal Bundle'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/common/gaiden-event/vtuber-featured-img.jpg.adapt.crop16x9.431p.jpg',
+    'link': 'https://www.ea.com/games/apex-legends/news/gaiden-vtubers',
+    'short_desc': 'Join the fun by downloading VTuber avatars of Octane, '
+                  'Bangalore and Mirage! ',
+    'title': 'Celebrate the Gaiden Event with Apex Legends™ VTuber avatars - '
+             'EA Official'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/common/gaiden-event/apex-gaidenevent-3840x2160-master-1.jpg.adapt.crop16x9.431p.jpg',
+    'link': 'https://www.ea.com/games/apex-legends/news/gaiden-event',
+    'short_desc': 'Summon your inner hero with 40 adventurous event-limited '
+                  'cosmetics and the return of Armed and Dangerous when Gaiden '
+                  'launches on July 19th.\r\n',
+    'title': 'Begin your epic tale in the Gaiden Event'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/images/2022/06/apex-s5drop9-social-twitch-1920x1080.jpg.adapt.crop16x9.431p.jpg',
+    'link': 'https://www.ea.com/games/apex-legends/news/prime-gaming-bundle-gibraltar-easy-breezy',
+    'short_desc': 'Get the Gibraltar Easy Breezy skin and more free with your '
+                  'Prime membership from June 16th –  July 21st',
+    'title': 'Start Your Summer with this Prime Gaming Gibraltar Bundle'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/images/2022/06/blog-thumbnail.jpg.adapt.crop16x9.431p.jpg',
+    'link': 'https://www.ea.com/games/apex-legends/news/awakening-collection-event',
+    'short_desc': 'Control mode returns, check out Lifeline’s Town Takeover, '
+                  'patch notes, and more for the Awakening Collection Event '
+                  'launching on June 21.',
+    'title': 'Choose your side, mechs or monsters, in the Awakening Collection '
+             'Event'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/mobile/images/2022/06/alm-cold-snap-pn-featured-image.png.adapt.crop16x9.431p.png',
+    'link': 'https://www.ea.com/games/apex-legends/news/cold-snap-patch-notes',
+    'short_desc': 'Stay Frosty Legends—welcome to Cold Snap!',
+    'title': 'Apex Legends Mobile Cold Snap Patch Notes'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/mobile/images/2022/05/primtimetimeblogheader-1.png.adapt.crop16x9.431p.png',
+    'link': 'https://www.ea.com/games/apex-legends/news/prime-time-patch-notes',
+    'short_desc': 'The wait is over legends. Welcome to Apex Legends Mobile.',
+    'title': 'Apex Legends Mobile Prime Time Patch Notes'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/images/2022/05/apex-media-news-saviors-patch-keyart.jpg.adapt.crop16x9.431p.jpg',
+    'link': 'https://www.ea.com/games/apex-legends/news/saviors-patch-notes',
+    'short_desc': 'Leap into the line of fire with a new Legend, Newcastle, '
+                  'traverse a monstrous map update, learn about Ranked '
+                  'Reloaded, and more!\r\n',
+    'title': 'Saviors Patch Notes'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/common/articles/defiance-patch-notes/picture1.jpg.adapt.crop16x9.431p.jpg',
+    'link': 'https://www.ea.com/games/apex-legends/news/defiance-patch-notes',
+    'short_desc': 'Check out the full patch notes of what to expect this '
+                  'season including a new Legend, LTM, and more when Defiance '
+                  'launches on February 8th!',
+    'title': 'Apex Legends: Defiance Patch Notes'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/common/articles/sfto-gridiron/bangalore-op-faetured.jpg.adapt.crop16x9.431p.jpg',
+    'link': 'https://www.ea.com/games/apex-legends/news/sfto-gridiron',
+    'short_desc': 'Watch the latest installment of the Stories from the '
+                  'Outlands: “Gridiron”',
+    'title': 'WATCH APEX LEGENDS | STORIES FROM THE OUTLANDS: “GRIDIRON”'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/images/2021/10/apex-escape-primary-art-1920x1080-nologo.jpg.adapt.crop16x9.431p.jpg',
+    'link': 'https://www.ea.com/games/apex-legends/news/escape-patch-notes',
+    'short_desc': 'Check out the full patch notes of what to expect in the '
+                  'Escape update.',
+    'title': 'Apex Legends: Escape Patch Notes'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/common/evolution-patch-notes/apex-page-bg-solid-beige.jpg.adapt.crop16x9.431p.jpg',
+    'link': 'https://www.ea.com/games/apex-legends/news/evolution-collection-event',
+    'short_desc': 'Run and gun with a new Town Takeover, Rampart’s Heirloom, a '
+                  'new twist on Arenas, and tons more updates in the Evolution '
+                  'Collection Event.',
+    'title': 'Evolution Collection Event Patch Notes'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/images/2021/07/apex-legends-emergence-patch-notes-thumbnail.jpg.adapt.crop16x9.431p.jpg',
+    'link': 'https://www.ea.com/games/apex-legends/news/emergence-patch-notes',
+    'short_desc': 'The Emergence update is a sight to behold. Get the full '
+                  'details in the patch notes.',
+    'title': 'Apex Legends: Emergence Patch Notes'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/images/2021/07/apex-legends-worlds-edge-emergence.jpg.adapt.crop16x9.431p.jpg',
+    'link': 'https://www.ea.com/games/apex-legends/news/emergence-worlds-edge-map-update',
+    'short_desc': 'After months of aggressive mining, World’s Edge is '
+                  'overmined, overburdened, and pushed to its limit. Learn '
+                  'more about our latest map update.',
+    'title': 'The Planet Trembles in the World’s Edge Map Update'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/images/2021/07/apex-legends-screenshot-s10-legend-01-seer-b-clean.png.adapt.crop16x9.431p.png',
+    'link': 'https://www.ea.com/games/apex-legends/news/arenas-ranked',
+    'short_desc': 'Get the details on what’s in store for Ranked Arenas when '
+                  'the Emergence update launches next month.',
+    'title': 'Announcing Ranked Arenas'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/images/2021/07/apex-thrillseekers-featured-image.jpg.adapt.crop16x9.431p.jpg',
+    'link': 'https://www.ea.com/games/apex-legends/news/thrillseekers-event',
+    'short_desc': 'Crank it up a notch with a new Arenas map, weekly rewards '
+                  'tracks, and splashy new looks when the Thrillseekers event '
+                  'begins on 7/13/21.',
+    'title': 'Enter a New Arena in the Thrillseekers Event'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/images/2021/06/apex-genesis-blog-featured-image.jpg.adapt.crop16x9.431p.jpg',
+    'link': 'https://www.ea.com/games/apex-legends/news/genesis-update-patch-notes',
+    'short_desc': 'Let’s get old school. The Genesis Collection Event kicks '
+                  'off June 29, 2021 and runs until July 13th, 2021.',
+    'title': 'Genesis Collection Event and Quality of Life Updates'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/common/articles/legacy-patch-notes/apex-legacy-patch-notes-featured-image.jpg.adapt.crop16x9.431p.jpg',
+    'link': 'https://www.ea.com/games/apex-legends/news/legacy-update-patch-notes',
+    'short_desc': 'We’re going beyond Battle Royale with Arenas, introducing '
+                  'Valkyrie, as well as new Arenas maps, an Olympus map '
+                  'update, and more.',
+    'title': 'Legacy Update Patch Notes'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/common/legacy-patch-notes/legacy.jpg.adapt.crop16x9.431p.jpg',
+    'link': 'https://www.ea.com/games/apex-legends/news/legacy-ranked',
+    'short_desc': 'Get the details on what’s in store for Ranked Leagues when '
+                  'the Legacy update launches on May 4th.',
+    'title': 'Announcing Apex Legends: Legacy Ranked'},
+  { 'img': 'https://media.contentapi.ea.com/content/dam/apex-legends/common/articles/olympus-map-updates/apex-legends-olympus-update-thumbnail.png.adapt.crop16x9.431p.png',
+    'link': 'https://www.ea.com/games/apex-legends/news/olympus-map-update',
+    'short_desc': 'Lead Level Designer Dave Osei walks you through the changes '
+                  'coming to Olympus in the Legacy update.',
+    'title': 'An Infection Takes Hold in the Olympus Map Update'}]

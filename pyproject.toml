@@ -1,0 +1,17 @@
+[build-system]
+requires = ['setuptools']
+build-backend = 'setuptools.build_meta'
+
+[project]
+name = 'apex-dt'
+version = attr: main.__version__
+
+[tool.setuptools.packages.find]
+where = ['.']
+include = ['*']
+exclude = ['']
+namespaces = true
+
+[project.scripts]
+apex-dt = 'apex_dt.main:main'
+
