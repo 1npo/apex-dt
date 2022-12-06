@@ -107,4 +107,4 @@ PRs are welcome. Please see [the contributing file](CONTRIBUTING.md) before subm
 
 ## License
 
-[MIT](LICENSE) © 1npo
+[MIT](LICENSE) © 2022 1npo
