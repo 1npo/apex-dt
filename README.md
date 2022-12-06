@@ -4,7 +4,7 @@
 
 A cross-platform text-based client for the [Apex Legends Status](https://apexlegendsstatus.com) [API](https://apexlegendsapi.com/#introduction) written in Python.
 
-This is a work in progress and is currently alpha-quality. Please see [the TODO file](TODO.md) and [the change log](CHANGELOG.md) for more information.
+*This is a new work in progress as of 2022-Dec-4 and has been uploaded for tracking purposes. Current version is unreleased. This message will be removed when version 0.0.1 is released.*
 
 ## Table of Contents
 
@@ -70,6 +70,8 @@ pip install .
 	- Predator/other leaderboards
 	- Server status
 	- Apex Legends News
+
+Please see [the TODO file](TODO.md) for features I'm working on, and [the change log](CHANGELOG.md) for the features added in each version.
 
 ## Requirements
 
