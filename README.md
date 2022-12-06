@@ -8,18 +8,18 @@ This is a work in progress and is currently alpha-quality. Please see [the TODO 
 
 ## Table of Contents
 
-1. [Background](#Background)
-2. [Install](#Install)
-	- [Via PyPI](Via PyPI.org)
-	- [Via GitHub](#Via GitHub)
-	- [Setting up your credentials](#Setting up your credentials)
-3. [Usage](#Usage)
-4. [Information currently available through `apex-dt`](#Information currently available through `apex-dt`)
+1. [Background](#background)
+2. [Install](#install)
+	- [Via PyPI](#via-pypiorg)
+	- [Via GitHub](#via-github)
+	- [Setting up your credentials](#setting-up-your-credentials)
+3. [Usage](#usage)
+4. [Information currently available through `apex-dt`](#information-currently-available-through-apex-dt)
 5. [Requirements](#requirements)
-6. [Limitations](#Limitations)
-7. [Acknowledgements](#Acknowledgements)
-8. [Contributing](#Contributing)
-9. [License](#License)
+6. [Limitations](#limitations)
+7. [Acknowledgements](#acknowledgements)
+8. [Contributing](#contributing)
+9. [License](#license)
 
 ## Background
 
@@ -77,8 +77,7 @@ pip install .
 
 - You must link your Apex Legends account to Apex Legends Status.
 	1. Create a [free account](https://apexlegendsstatus.com/register) at the Apex Legends Status website.
-	2. Follow the instructions on the ["Link Apex Legends Account"](https://apexlegendsstatus.com/account/claim) page of your account page. (*See screenshot below.*)
-		- ![[als_account_page_callout.png]]
+	2. Follow the instructions on the ["Link Apex Legends Account"](https://apexlegendsstatus.com/account/claim) page of your account page.
 - You must have an API key.
 	- You can create one for free at the API [portal](https://portal.apexlegendsapi.com/).
 - To use the "Match History" and "Shop History" endpoints:
