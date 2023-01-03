@@ -1,11 +1,13 @@
 import requests
+import time
 
-from apex_dt.session import ApexAPISession
-from apex_dt.exceptions import gen_api_error_response, MissingRequiredArgument
+from apex_dt.api.session import ApexAPISession
+from apex_dt.api.exceptions import gen_api_error_response, MissingRequiredArgument
+from apex_dt.config import API_REQ_TIMEOUT
 
 
 class ApexAPIClient:
-    """
+    """A class for getting content from ALS API endpoints.
     """
 
     def __init__(self):
@@ -19,12 +21,14 @@ class ApexAPIClient:
         res_content_type = res.headers['content-type'].strip()
 
         if res.status_code >= 400:
-            gen_error_response(res)
+            gen_api_error_response(res)
         
         try:
             res_out = res.json()
         except requests.exceptions.JSONDecodeError:
             res_out = res.text
+        
+        time.sleep(API_REQ_TIMEOUT)
 
         return res_out
 
@@ -57,7 +61,7 @@ class ApexAPIClient:
         params = {'platform': platform}
 
         if by == 'uid':
-            params.update({'uid': player})
+            params.update({'uid': player_name})
         elif by == 'name':
             params.update({'player': player_name})
         else:
@@ -113,7 +117,7 @@ class ApexAPIClient:
             params.update({'limit': limit})
 
         return self._request('games', params)
-
+    
     def get_match_history_legacy(
         self,
         uid: str = None,

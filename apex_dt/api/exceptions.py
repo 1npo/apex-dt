@@ -13,9 +13,7 @@ def gen_api_error_response(res):
     error_code = res.status_code
     error_message = res.text
 
-    raise error_codes[code](message=error_message,
-                            code=error_code,
-                            response=res)
+    raise error_codes[error_code](message=error_message, code=error_code, response=res)
 
 
 class ApexAPIError(Exception):
