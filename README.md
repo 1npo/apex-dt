@@ -1,10 +1,10 @@
+*This project was cancelled in June 2023 and archived due to limitations in the API.*
+
 # Apex Legends Data Tool (apex-dt)
 
 [![platform-support](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20osx-blue)](platform) [![works badge](https://cdn.jsdelivr.net/gh/nikku/works-on-my-machine@v0.2.0/badge.svg)](https://github.com/nikku/works-on-my-machine#alternatives) [![license](https://img.shields.io/github/license/1npo/apex-dt)](LICENSE) [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme) 
 
 A cross-platform text-based client for the [Apex Legends Status](https://apexlegendsstatus.com) [API](https://apexlegendsapi.com/#introduction) written in Python.
-
-*This is a new work in progress as of 2022-Dec-4 and has been uploaded for tracking purposes. Current version is unreleased. This message will be removed when version 0.0.1 is released.*
 
 ## Table of Contents
 
